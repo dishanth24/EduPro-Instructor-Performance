@@ -1,7 +1,7 @@
 # EduPro – Instructor Performance and Course Quality Evaluation
 
 ## 📌 Project Overview
-
+Streamlit app : https://edupro-instructor-performance-pgpzxvux4hkoqcrvkfxtws.streamlit.app/
 EduPro – Instructor Performance and Course Quality Evaluation is a data analytics project designed to evaluate instructor effectiveness, course quality, teaching experience, expertise areas, and learner enrollment patterns on the EduPro online learning platform.
 
 The project integrates instructor, course, learner, and transaction data to provide a structured framework for understanding instructor performance and course quality.
