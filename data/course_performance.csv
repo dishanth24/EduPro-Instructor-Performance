@@ -1,0 +1,888 @@
+CourseID,CourseName,CourseCategory,CourseLevel,TeacherID,TeacherName,CourseRating,Enrollments,Revenue
+CR00001,Python Basics,Programming,Beginner,TC00003,Amber Torres,4.74,2,944.56
+CR00001,Python Basics,Programming,Beginner,TC00005,David Williams,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00009,Alexander Tucker,4.74,2,944.56
+CR00001,Python Basics,Programming,Beginner,TC00010,Frances Sanchez,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00015,John Armstrong,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00016,David Carlson,4.74,2,944.56
+CR00001,Python Basics,Programming,Beginner,TC00017,Brian Perez,4.74,3,1416.84
+CR00001,Python Basics,Programming,Beginner,TC00019,Tommy Haynes,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00022,John Holmes,4.74,2,944.56
+CR00001,Python Basics,Programming,Beginner,TC00023,Robert Mack,4.74,2,944.56
+CR00001,Python Basics,Programming,Beginner,TC00026,Patrick Wilson,4.74,2,944.56
+CR00001,Python Basics,Programming,Beginner,TC00027,Laurie Michael,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00028,Timothy Bailey,4.74,2,944.56
+CR00001,Python Basics,Programming,Beginner,TC00030,David Aguirre,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00031,Brenda Mercer,4.74,2,944.56
+CR00001,Python Basics,Programming,Beginner,TC00035,Sharon Jackson,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00036,Brenda Mclean,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00038,Jeffrey Clark,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00039,Elizabeth Bishop,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00040,Kimberly Miller,4.74,46,21724.879999999997
+CR00001,Python Basics,Programming,Beginner,TC00042,Yolanda Levine,4.74,63,29753.64
+CR00001,Python Basics,Programming,Beginner,TC00045,Emily Gutierrez,4.74,2,944.56
+CR00001,Python Basics,Programming,Beginner,TC00047,Brad Griffin,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00050,Alexander Williams,4.74,1,472.28
+CR00001,Python Basics,Programming,Beginner,TC00056,Alexis Everett,4.74,22,10390.16
+CR00002,Java Programming,Programming,Intermediate,TC00015,John Armstrong,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00016,David Carlson,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00017,Brian Perez,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00019,Tommy Haynes,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00022,John Holmes,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00023,Robert Mack,2.43,3,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00025,Justin Pham,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00026,Patrick Wilson,2.43,2,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00028,Timothy Bailey,2.43,3,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00039,Elizabeth Bishop,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00040,Kimberly Miller,2.43,47,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00042,Yolanda Levine,2.43,51,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00044,Barbara Maynard,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00045,Emily Gutierrez,2.43,3,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00047,Brad Griffin,2.43,4,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00048,Theresa Gonzalez,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00049,Valerie Wiley,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00050,Alexander Williams,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00052,Susan Johnson,2.43,1,0.0
+CR00002,Java Programming,Programming,Intermediate,TC00056,Alexis Everett,2.43,24,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00003,Amber Torres,3.85,2,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00005,David Williams,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00006,Rebecca Webb,3.85,3,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00009,Alexander Tucker,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00010,Frances Sanchez,3.85,2,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00014,Susan Randolph,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00015,John Armstrong,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00016,David Carlson,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00017,Brian Perez,3.85,2,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00019,Tommy Haynes,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00022,John Holmes,3.85,2,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00023,Robert Mack,3.85,2,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00025,Justin Pham,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00028,Timothy Bailey,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00031,Brenda Mercer,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00034,Brandon Dawson,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00035,Sharon Jackson,3.85,3,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00036,Brenda Mclean,3.85,2,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00038,Jeffrey Clark,3.85,3,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00039,Elizabeth Bishop,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00040,Kimberly Miller,3.8500000000000005,69,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00042,Yolanda Levine,3.85,39,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00044,Barbara Maynard,3.85,3,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00047,Brad Griffin,3.85,2,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00051,John Obrien,3.85,3,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00052,Susan Johnson,3.85,1,0.0
+CR00003,C++ for Beginners,Programming,Beginner,TC00056,Alexis Everett,3.85,24,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00003,Amber Torres,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00006,Rebecca Webb,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00009,Alexander Tucker,2.8800000000000003,6,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00010,Frances Sanchez,2.88,2,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00013,Brian Carrillo,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00015,John Armstrong,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00016,David Carlson,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00017,Brian Perez,2.88,4,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00019,Tommy Haynes,2.88,2,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00022,John Holmes,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00023,Robert Mack,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00026,Patrick Wilson,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00028,Timothy Bailey,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00029,David Webb,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00030,David Aguirre,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00032,James Holder,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00036,Brenda Mclean,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00038,Jeffrey Clark,2.88,2,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00039,Elizabeth Bishop,2.8800000000000003,3,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00040,Kimberly Miller,2.88,47,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00042,Yolanda Levine,2.88,45,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00043,John Williams,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00045,Emily Gutierrez,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00050,Alexander Williams,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00051,John Obrien,2.88,1,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00056,Alexis Everett,2.88,25,0.0
+CR00004,Advanced Python,Programming,Beginner,TC00060,Benjamin Gray,2.88,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00001,Leonard Montgomery,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00003,Amber Torres,1.28,3,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00005,David Williams,1.28,3,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00009,Alexander Tucker,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00010,Frances Sanchez,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00014,Susan Randolph,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00015,John Armstrong,1.28,2,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00016,David Carlson,1.28,3,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00022,John Holmes,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00023,Robert Mack,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00025,Justin Pham,1.28,2,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00028,Timothy Bailey,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00029,David Webb,1.28,3,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00030,David Aguirre,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00031,Brenda Mercer,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00032,James Holder,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00036,Brenda Mclean,1.28,2,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00038,Jeffrey Clark,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00040,Kimberly Miller,1.28,52,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00042,Yolanda Levine,1.28,47,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00043,John Williams,1.28,3,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00044,Barbara Maynard,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00045,Emily Gutierrez,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00049,Valerie Wiley,1.28,1,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00051,John Obrien,1.28,2,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00052,Susan Johnson,1.28,2,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00056,Alexis Everett,1.28,25,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00057,Brittany Scott,1.28,2,0.0
+CR00005,Full Stack Development,Programming,Beginner,TC00060,Benjamin Gray,1.28,1,0.0
+CR00006,Graphic Design Basics,Design,Advanced,TC00001,Leonard Montgomery,2.72,1,276.37
+CR00006,Graphic Design Basics,Design,Advanced,TC00003,Amber Torres,2.72,7,1934.5900000000001
+CR00006,Graphic Design Basics,Design,Advanced,TC00005,David Williams,2.72,1,276.37
+CR00006,Graphic Design Basics,Design,Advanced,TC00019,Tommy Haynes,2.72,2,552.74
+CR00006,Graphic Design Basics,Design,Advanced,TC00029,David Webb,2.72,1,276.37
+CR00006,Graphic Design Basics,Design,Advanced,TC00032,James Holder,2.72,1,276.37
+CR00006,Graphic Design Basics,Design,Advanced,TC00033,Wesley Garcia,2.7200000000000006,27,7461.99
+CR00006,Graphic Design Basics,Design,Advanced,TC00035,Sharon Jackson,2.72,2,552.74
+CR00006,Graphic Design Basics,Design,Advanced,TC00040,Kimberly Miller,2.72,43,11883.91
+CR00006,Graphic Design Basics,Design,Advanced,TC00042,Yolanda Levine,2.7199999999999998,52,14371.24
+CR00006,Graphic Design Basics,Design,Advanced,TC00047,Brad Griffin,2.72,9,2487.33
+CR00006,Graphic Design Basics,Design,Advanced,TC00049,Valerie Wiley,2.72,1,276.37
+CR00006,Graphic Design Basics,Design,Advanced,TC00051,John Obrien,2.72,4,1105.48
+CR00006,Graphic Design Basics,Design,Advanced,TC00052,Susan Johnson,2.72,3,829.11
+CR00006,Graphic Design Basics,Design,Advanced,TC00057,Brittany Scott,2.72,2,552.74
+CR00007,UI/UX Design,Design,Advanced,TC00003,Amber Torres,2.61,19,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00005,David Williams,2.61,1,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00006,Rebecca Webb,2.61,2,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00013,Brian Carrillo,2.61,2,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00015,John Armstrong,2.61,2,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00019,Tommy Haynes,2.61,1,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00029,David Webb,2.61,1,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00030,David Aguirre,2.61,2,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00033,Wesley Garcia,2.61,26,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00035,Sharon Jackson,2.61,1,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00039,Elizabeth Bishop,2.61,1,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00040,Kimberly Miller,2.61,52,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00042,Yolanda Levine,2.61,51,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00047,Brad Griffin,2.61,8,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00051,John Obrien,2.61,8,0.0
+CR00007,UI/UX Design,Design,Advanced,TC00057,Brittany Scott,2.61,1,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00003,Amber Torres,1.52,4,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00006,Rebecca Webb,1.52,1,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00013,Brian Carrillo,1.52,2,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00015,John Armstrong,1.52,1,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00020,Tara Reynolds,1.52,1,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00033,Wesley Garcia,1.52,21,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00039,Elizabeth Bishop,1.52,1,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00040,Kimberly Miller,1.52,45,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00042,Yolanda Levine,1.52,51,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00047,Brad Griffin,1.52,13,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00048,Theresa Gonzalez,1.52,1,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00050,Alexander Williams,1.52,1,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00051,John Obrien,1.52,14,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00057,Brittany Scott,1.52,1,0.0
+CR00008,Photoshop Mastery,Design,Advanced,TC00060,Benjamin Gray,1.52,1,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00001,Leonard Montgomery,4.51,1,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00003,Amber Torres,4.51,6,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00005,David Williams,4.51,1,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00013,Brian Carrillo,4.51,1,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00019,Tommy Haynes,4.51,1,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00020,Tara Reynolds,4.51,2,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00029,David Webb,4.51,2,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00030,David Aguirre,4.51,2,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00032,James Holder,4.51,2,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00033,Wesley Garcia,4.51,29,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00040,Kimberly Miller,4.51,38,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00042,Yolanda Levine,4.51,44,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00047,Brad Griffin,4.51,12,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00048,Theresa Gonzalez,4.51,1,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00049,Valerie Wiley,4.51,1,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00051,John Obrien,4.51,8,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00052,Susan Johnson,4.51,1,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00057,Brittany Scott,4.51,2,0.0
+CR00009,Web Design Fundamentals,Design,Beginner,TC00060,Benjamin Gray,4.51,1,0.0
+CR00010,3D Modeling,Design,Advanced,TC00001,Leonard Montgomery,4.45,1,0.0
+CR00010,3D Modeling,Design,Advanced,TC00003,Amber Torres,4.45,7,0.0
+CR00010,3D Modeling,Design,Advanced,TC00005,David Williams,4.45,1,0.0
+CR00010,3D Modeling,Design,Advanced,TC00013,Brian Carrillo,4.45,1,0.0
+CR00010,3D Modeling,Design,Advanced,TC00015,John Armstrong,4.45,2,0.0
+CR00010,3D Modeling,Design,Advanced,TC00029,David Webb,4.45,1,0.0
+CR00010,3D Modeling,Design,Advanced,TC00030,David Aguirre,4.45,1,0.0
+CR00010,3D Modeling,Design,Advanced,TC00032,James Holder,4.45,1,0.0
+CR00010,3D Modeling,Design,Advanced,TC00033,Wesley Garcia,4.45,28,0.0
+CR00010,3D Modeling,Design,Advanced,TC00035,Sharon Jackson,4.45,2,0.0
+CR00010,3D Modeling,Design,Advanced,TC00039,Elizabeth Bishop,4.45,2,0.0
+CR00010,3D Modeling,Design,Advanced,TC00040,Kimberly Miller,4.45,52,0.0
+CR00010,3D Modeling,Design,Advanced,TC00042,Yolanda Levine,4.45,52,0.0
+CR00010,3D Modeling,Design,Advanced,TC00047,Brad Griffin,4.45,7,0.0
+CR00010,3D Modeling,Design,Advanced,TC00048,Theresa Gonzalez,4.45,2,0.0
+CR00010,3D Modeling,Design,Advanced,TC00051,John Obrien,4.45,16,0.0
+CR00010,3D Modeling,Design,Advanced,TC00052,Susan Johnson,4.45,3,0.0
+CR00010,3D Modeling,Design,Advanced,TC00060,Benjamin Gray,4.45,1,0.0
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00002,Jill Day,2.69,1,326.02
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00004,Kristi Scott,2.69,1,326.02
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00007,Angela Beard,2.69,2,652.04
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00011,Carol Edwards,2.69,1,326.02
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00021,Adam Holmes,2.69,1,326.02
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00024,Michael Kim,2.69,1,326.02
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00028,Timothy Bailey,2.69,24,7824.48
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00033,Wesley Garcia,2.69,4,1304.08
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00037,Debra Escobar,2.69,1,326.02
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00040,Kimberly Miller,2.69,51,16627.02
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00041,Kevin Simpson,2.69,1,326.02
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00042,Yolanda Levine,2.69,41,13366.82
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00052,Susan Johnson,2.69,14,4564.28
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00053,Aaron Kirby,2.69,4,1304.08
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00058,Andrew Anderson,2.69,2,652.04
+CR00011,Entrepreneurship 101,Business,Intermediate,TC00059,Noah Stewart,2.69,2,652.04
+CR00012,Business Strategy,Business,Advanced,TC00007,Angela Beard,3.64,3,1463.76
+CR00012,Business Strategy,Business,Advanced,TC00008,Steven Walker,3.64,3,1463.76
+CR00012,Business Strategy,Business,Advanced,TC00012,Christopher Nelson,3.64,2,975.84
+CR00012,Business Strategy,Business,Advanced,TC00018,Kari Pierce,3.64,2,975.84
+CR00012,Business Strategy,Business,Advanced,TC00021,Adam Holmes,3.64,1,487.92
+CR00012,Business Strategy,Business,Advanced,TC00028,Timothy Bailey,3.64,30,14637.6
+CR00012,Business Strategy,Business,Advanced,TC00033,Wesley Garcia,3.64,1,487.92
+CR00012,Business Strategy,Business,Advanced,TC00037,Debra Escobar,3.64,1,487.92
+CR00012,Business Strategy,Business,Advanced,TC00040,Kimberly Miller,3.64,45,21956.4
+CR00012,Business Strategy,Business,Advanced,TC00042,Yolanda Levine,3.64,58,28299.36
+CR00012,Business Strategy,Business,Advanced,TC00046,Brent Walters,3.64,1,487.92
+CR00012,Business Strategy,Business,Advanced,TC00052,Susan Johnson,3.64,16,7806.72
+CR00012,Business Strategy,Business,Advanced,TC00053,Aaron Kirby,3.64,2,975.84
+CR00012,Business Strategy,Business,Advanced,TC00054,Shelby Patrick,3.64,1,487.92
+CR00012,Business Strategy,Business,Advanced,TC00055,Alison Wilson,3.64,1,487.92
+CR00012,Business Strategy,Business,Advanced,TC00056,Alexis Everett,3.64,1,487.92
+CR00012,Business Strategy,Business,Advanced,TC00058,Andrew Anderson,3.64,4,1951.68
+CR00012,Business Strategy,Business,Advanced,TC00059,Noah Stewart,3.64,1,487.92
+CR00013,Finance for Startups,Business,Advanced,TC00002,Jill Day,2.0,3,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00004,Kristi Scott,2.0,4,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00007,Angela Beard,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00008,Steven Walker,2.0,2,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00011,Carol Edwards,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00012,Christopher Nelson,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00018,Kari Pierce,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00021,Adam Holmes,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00024,Michael Kim,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00028,Timothy Bailey,2.0,30,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00037,Debra Escobar,2.0,2,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00040,Kimberly Miller,2.0,51,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00042,Yolanda Levine,2.0,47,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00046,Brent Walters,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00052,Susan Johnson,2.0,17,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00054,Shelby Patrick,2.0,2,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00055,Alison Wilson,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00056,Alexis Everett,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00058,Andrew Anderson,2.0,1,0.0
+CR00013,Finance for Startups,Business,Advanced,TC00059,Noah Stewart,2.0,2,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00002,Jill Day,3.15,1,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00007,Angela Beard,3.15,1,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00008,Steven Walker,3.15,3,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00011,Carol Edwards,3.15,3,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00012,Christopher Nelson,3.15,1,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00021,Adam Holmes,3.15,1,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00024,Michael Kim,3.15,2,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00028,Timothy Bailey,3.15,34,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00037,Debra Escobar,3.15,1,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00040,Kimberly Miller,3.15,54,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00041,Kevin Simpson,3.15,3,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00042,Yolanda Levine,3.15,43,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00046,Brent Walters,3.15,1,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00052,Susan Johnson,3.15,17,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00053,Aaron Kirby,3.15,2,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00054,Shelby Patrick,3.15,1,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00058,Andrew Anderson,3.15,1,0.0
+CR00014,Sales Mastery,Business,Advanced,TC00059,Noah Stewart,3.15,2,0.0
+CR00015,Leadership Essentials,Business,Beginner,TC00002,Jill Day,1.96,1,285.05
+CR00015,Leadership Essentials,Business,Beginner,TC00004,Kristi Scott,1.96,1,285.05
+CR00015,Leadership Essentials,Business,Beginner,TC00008,Steven Walker,1.96,3,855.1500000000001
+CR00015,Leadership Essentials,Business,Beginner,TC00011,Carol Edwards,1.96,2,570.1
+CR00015,Leadership Essentials,Business,Beginner,TC00012,Christopher Nelson,1.96,1,285.05
+CR00015,Leadership Essentials,Business,Beginner,TC00018,Kari Pierce,1.96,1,285.05
+CR00015,Leadership Essentials,Business,Beginner,TC00028,Timothy Bailey,1.96,27,7696.35
+CR00015,Leadership Essentials,Business,Beginner,TC00033,Wesley Garcia,1.96,1,285.05
+CR00015,Leadership Essentials,Business,Beginner,TC00037,Debra Escobar,1.96,1,285.05
+CR00015,Leadership Essentials,Business,Beginner,TC00040,Kimberly Miller,1.9600000000000002,40,11402.0
+CR00015,Leadership Essentials,Business,Beginner,TC00042,Yolanda Levine,1.96,68,19383.4
+CR00015,Leadership Essentials,Business,Beginner,TC00046,Brent Walters,1.96,1,285.05
+CR00015,Leadership Essentials,Business,Beginner,TC00052,Susan Johnson,1.96,12,3420.6000000000004
+CR00015,Leadership Essentials,Business,Beginner,TC00053,Aaron Kirby,1.96,1,285.05
+CR00015,Leadership Essentials,Business,Beginner,TC00054,Shelby Patrick,1.96,2,570.1
+CR00015,Leadership Essentials,Business,Beginner,TC00055,Alison Wilson,1.96,2,570.1
+CR00015,Leadership Essentials,Business,Beginner,TC00056,Alexis Everett,1.96,1,285.05
+CR00015,Leadership Essentials,Business,Beginner,TC00058,Andrew Anderson,1.96,2,570.1
+CR00015,Leadership Essentials,Business,Beginner,TC00059,Noah Stewart,1.96,1,285.05
+CR00016,Digital Marketing,Marketing,Intermediate,TC00001,Leonard Montgomery,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00003,Amber Torres,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00005,David Williams,4.72,2,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00006,Rebecca Webb,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00010,Frances Sanchez,4.72,2,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00013,Brian Carrillo,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00014,Susan Randolph,4.72,2,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00015,John Armstrong,4.72,2,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00017,Brian Perez,4.72,2,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00020,Tara Reynolds,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00023,Robert Mack,4.72,2,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00025,Justin Pham,4.72,2,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00026,Patrick Wilson,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00027,Laurie Michael,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00028,Timothy Bailey,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00029,David Webb,4.72,2,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00030,David Aguirre,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00031,Brenda Mercer,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00032,James Holder,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00034,Brandon Dawson,4.72,3,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00036,Brenda Mclean,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00038,Jeffrey Clark,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00040,Kimberly Miller,4.72,47,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00042,Yolanda Levine,4.72,52,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00043,John Williams,4.72,2,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00044,Barbara Maynard,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00045,Emily Gutierrez,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00047,Brad Griffin,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00050,Alexander Williams,4.72,1,0.0
+CR00016,Digital Marketing,Marketing,Intermediate,TC00053,Aaron Kirby,4.72,16,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00001,Leonard Montgomery,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00006,Rebecca Webb,4.79,4,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00009,Alexander Tucker,4.79,2,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00010,Frances Sanchez,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00014,Susan Randolph,4.79,2,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00015,John Armstrong,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00016,David Carlson,4.79,2,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00017,Brian Perez,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00019,Tommy Haynes,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00020,Tara Reynolds,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00023,Robert Mack,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00027,Laurie Michael,4.79,2,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00028,Timothy Bailey,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00029,David Webb,4.79,2,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00030,David Aguirre,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00034,Brandon Dawson,4.79,3,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00035,Sharon Jackson,4.79,2,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00036,Brenda Mclean,4.79,2,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00038,Jeffrey Clark,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00039,Elizabeth Bishop,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00040,Kimberly Miller,4.79,42,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00042,Yolanda Levine,4.79,52,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00044,Barbara Maynard,4.79,2,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00045,Emily Gutierrez,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00048,Theresa Gonzalez,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00051,John Obrien,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00052,Susan Johnson,4.79,1,0.0
+CR00017,SEO Mastery,Marketing,Advanced,TC00053,Aaron Kirby,4.79,26,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00003,Amber Torres,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00009,Alexander Tucker,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00010,Frances Sanchez,2.01,3,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00015,John Armstrong,2.01,3,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00016,David Carlson,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00020,Tara Reynolds,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00022,John Holmes,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00023,Robert Mack,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00025,Justin Pham,2.01,3,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00027,Laurie Michael,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00029,David Webb,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00031,Brenda Mercer,2.01,2,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00034,Brandon Dawson,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00038,Jeffrey Clark,2.01,3,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00039,Elizabeth Bishop,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00040,Kimberly Miller,2.01,52,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00042,Yolanda Levine,2.01,52,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00044,Barbara Maynard,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00045,Emily Gutierrez,2.01,2,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00047,Brad Griffin,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00048,Theresa Gonzalez,2.01,3,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00049,Valerie Wiley,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00050,Alexander Williams,2.01,2,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00051,John Obrien,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00052,Susan Johnson,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00053,Aaron Kirby,2.01,21,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00057,Brittany Scott,2.01,1,0.0
+CR00018,Social Media Marketing,Marketing,Advanced,TC00060,Benjamin Gray,2.01,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00001,Leonard Montgomery,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00003,Amber Torres,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00005,David Williams,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00006,Rebecca Webb,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00009,Alexander Tucker,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00010,Frances Sanchez,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00013,Brian Carrillo,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00016,David Carlson,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00017,Brian Perez,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00023,Robert Mack,2.98,3,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00025,Justin Pham,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00026,Patrick Wilson,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00028,Timothy Bailey,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00030,David Aguirre,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00031,Brenda Mercer,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00036,Brenda Mclean,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00039,Elizabeth Bishop,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00040,Kimberly Miller,2.98,53,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00042,Yolanda Levine,2.98,60,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00043,John Williams,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00044,Barbara Maynard,2.98,3,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00045,Emily Gutierrez,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00049,Valerie Wiley,2.98,2,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00050,Alexander Williams,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00051,John Obrien,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00052,Susan Johnson,2.98,1,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00053,Aaron Kirby,2.98,25,0.0
+CR00019,Content Marketing,Marketing,Advanced,TC00060,Benjamin Gray,2.98,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00001,Leonard Montgomery,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00003,Amber Torres,4.11,2,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00005,David Williams,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00006,Rebecca Webb,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00010,Frances Sanchez,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00014,Susan Randolph,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00017,Brian Perez,4.11,2,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00019,Tommy Haynes,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00020,Tara Reynolds,4.11,2,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00026,Patrick Wilson,4.11,2,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00027,Laurie Michael,4.11,3,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00028,Timothy Bailey,4.11,2,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00030,David Aguirre,4.11,2,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00031,Brenda Mercer,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00034,Brandon Dawson,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00038,Jeffrey Clark,4.11,2,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00040,Kimberly Miller,4.11,48,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00042,Yolanda Levine,4.11,47,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00043,John Williams,4.11,2,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00045,Emily Gutierrez,4.11,4,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00047,Brad Griffin,4.11,3,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00049,Valerie Wiley,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00050,Alexander Williams,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00052,Susan Johnson,4.11,1,0.0
+CR00020,Email Marketing,Marketing,Intermediate,TC00053,Aaron Kirby,4.11,23,0.0
+CR00021,Data Analysis with Python,Data Science,Intermediate,TC00008,Steven Walker,3.6,30,0.0
+CR00021,Data Analysis with Python,Data Science,Intermediate,TC00010,Frances Sanchez,3.6,6,0.0
+CR00021,Data Analysis with Python,Data Science,Intermediate,TC00015,John Armstrong,3.5999999999999996,9,0.0
+CR00021,Data Analysis with Python,Data Science,Intermediate,TC00016,David Carlson,3.6,22,0.0
+CR00021,Data Analysis with Python,Data Science,Intermediate,TC00040,Kimberly Miller,3.6,71,0.0
+CR00021,Data Analysis with Python,Data Science,Intermediate,TC00042,Yolanda Levine,3.6,51,0.0
+CR00021,Data Analysis with Python,Data Science,Intermediate,TC00057,Brittany Scott,3.6,7,0.0
+CR00022,Data Visualization,Data Science,Beginner,TC00008,Steven Walker,3.65,22,0.0
+CR00022,Data Visualization,Data Science,Beginner,TC00010,Frances Sanchez,3.6499999999999995,13,0.0
+CR00022,Data Visualization,Data Science,Beginner,TC00015,John Armstrong,3.65,6,0.0
+CR00022,Data Visualization,Data Science,Beginner,TC00016,David Carlson,3.65,16,0.0
+CR00022,Data Visualization,Data Science,Beginner,TC00040,Kimberly Miller,3.65,66,0.0
+CR00022,Data Visualization,Data Science,Beginner,TC00042,Yolanda Levine,3.65,50,0.0
+CR00022,Data Visualization,Data Science,Beginner,TC00057,Brittany Scott,3.65,4,0.0
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,TC00008,Steven Walker,3.0199999999999996,23,0.0
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,TC00010,Frances Sanchez,3.02,20,0.0
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,TC00015,John Armstrong,3.02,8,0.0
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,TC00016,David Carlson,3.02,15,0.0
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,TC00040,Kimberly Miller,3.02,53,0.0
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,TC00042,Yolanda Levine,3.02,59,0.0
+CR00023,Machine Learning Fundamentals,Data Science,Intermediate,TC00057,Brittany Scott,3.02,7,0.0
+CR00024,Big Data Analytics,Data Science,Advanced,TC00008,Steven Walker,2.57,25,2942.0
+CR00024,Big Data Analytics,Data Science,Advanced,TC00010,Frances Sanchez,2.57,9,1059.1200000000001
+CR00024,Big Data Analytics,Data Science,Advanced,TC00015,John Armstrong,2.57,5,588.4000000000001
+CR00024,Big Data Analytics,Data Science,Advanced,TC00016,David Carlson,2.57,21,2471.28
+CR00024,Big Data Analytics,Data Science,Advanced,TC00040,Kimberly Miller,2.57,46,5413.280000000001
+CR00024,Big Data Analytics,Data Science,Advanced,TC00042,Yolanda Levine,2.57,56,6590.08
+CR00024,Big Data Analytics,Data Science,Advanced,TC00057,Brittany Scott,2.57,4,470.72
+CR00025,Statistical Analysis,Data Science,Beginner,TC00008,Steven Walker,3.74,22,6590.54
+CR00025,Statistical Analysis,Data Science,Beginner,TC00010,Frances Sanchez,3.7399999999999998,14,4193.98
+CR00025,Statistical Analysis,Data Science,Beginner,TC00015,John Armstrong,3.74,11,3295.27
+CR00025,Statistical Analysis,Data Science,Beginner,TC00016,David Carlson,3.7399999999999998,14,4193.98
+CR00025,Statistical Analysis,Data Science,Beginner,TC00040,Kimberly Miller,3.74,54,16176.779999999999
+CR00025,Statistical Analysis,Data Science,Beginner,TC00042,Yolanda Levine,3.74,64,19172.48
+CR00025,Statistical Analysis,Data Science,Beginner,TC00057,Brittany Scott,3.74,13,3894.41
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00004,Kristi Scott,4.73,9,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00007,Angela Beard,4.73,8,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00010,Frances Sanchez,4.73,2,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00014,Susan Randolph,4.73,1,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00016,David Carlson,4.73,4,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00021,Adam Holmes,4.73,10,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00022,John Holmes,4.73,1,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00023,Robert Mack,4.73,2,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00025,Justin Pham,4.73,3,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00026,Patrick Wilson,4.73,2,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00031,Brenda Mercer,4.73,4,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00034,Brandon Dawson,4.73,1,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00038,Jeffrey Clark,4.73,3,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00042,Yolanda Levine,4.73,100,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00044,Barbara Maynard,4.73,2,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00045,Emily Gutierrez,4.73,1,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00047,Brad Griffin,4.73,1,0.0
+CR00026,Intro to Machine Learning,Machine Learning,Intermediate,TC00049,Valerie Wiley,4.73,18,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00004,Kristi Scott,1.8099999999999998,9,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00007,Angela Beard,1.8099999999999998,9,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00017,Brian Perez,1.81,1,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00021,Adam Holmes,1.81,5,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00022,John Holmes,1.81,1,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00023,Robert Mack,1.81,1,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00025,Justin Pham,1.8099999999999998,3,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00027,Laurie Michael,1.81,4,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00028,Timothy Bailey,1.81,1,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00034,Brandon Dawson,1.81,2,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00036,Brenda Mclean,1.81,1,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00038,Jeffrey Clark,1.81,2,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00042,Yolanda Levine,1.81,90,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00043,John Williams,1.81,2,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00047,Brad Griffin,1.81,1,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00049,Valerie Wiley,1.8099999999999998,18,0.0
+CR00027,Neural Networks,Machine Learning,Advanced,TC00051,John Obrien,1.81,2,0.0
+CR00028,Deep Learning,Machine Learning,Advanced,TC00003,Amber Torres,3.89,1,0.78
+CR00028,Deep Learning,Machine Learning,Advanced,TC00004,Kristi Scott,3.89,7,5.46
+CR00028,Deep Learning,Machine Learning,Advanced,TC00007,Angela Beard,3.8899999999999997,5,3.9000000000000004
+CR00028,Deep Learning,Machine Learning,Advanced,TC00009,Alexander Tucker,3.89,1,0.78
+CR00028,Deep Learning,Machine Learning,Advanced,TC00010,Frances Sanchez,3.89,2,1.56
+CR00028,Deep Learning,Machine Learning,Advanced,TC00016,David Carlson,3.89,1,0.78
+CR00028,Deep Learning,Machine Learning,Advanced,TC00017,Brian Perez,3.89,1,0.78
+CR00028,Deep Learning,Machine Learning,Advanced,TC00021,Adam Holmes,3.89,13,10.14
+CR00028,Deep Learning,Machine Learning,Advanced,TC00022,John Holmes,3.89,2,1.56
+CR00028,Deep Learning,Machine Learning,Advanced,TC00025,Justin Pham,3.89,2,1.56
+CR00028,Deep Learning,Machine Learning,Advanced,TC00026,Patrick Wilson,3.89,2,1.56
+CR00028,Deep Learning,Machine Learning,Advanced,TC00027,Laurie Michael,3.89,1,0.78
+CR00028,Deep Learning,Machine Learning,Advanced,TC00031,Brenda Mercer,3.89,3,2.34
+CR00028,Deep Learning,Machine Learning,Advanced,TC00034,Brandon Dawson,3.89,2,1.56
+CR00028,Deep Learning,Machine Learning,Advanced,TC00038,Jeffrey Clark,3.89,4,3.12
+CR00028,Deep Learning,Machine Learning,Advanced,TC00042,Yolanda Levine,3.89,99,77.22
+CR00028,Deep Learning,Machine Learning,Advanced,TC00043,John Williams,3.89,3,2.34
+CR00028,Deep Learning,Machine Learning,Advanced,TC00044,Barbara Maynard,3.89,2,1.56
+CR00028,Deep Learning,Machine Learning,Advanced,TC00047,Brad Griffin,3.89,2,1.56
+CR00028,Deep Learning,Machine Learning,Advanced,TC00049,Valerie Wiley,3.8899999999999997,17,13.26
+CR00028,Deep Learning,Machine Learning,Advanced,TC00051,John Obrien,3.89,1,0.78
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00004,Kristi Scott,1.13,11,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00007,Angela Beard,1.13,11,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00009,Alexander Tucker,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00010,Frances Sanchez,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00014,Susan Randolph,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00016,David Carlson,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00017,Brian Perez,1.13,2,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00021,Adam Holmes,1.13,12,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00022,John Holmes,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00023,Robert Mack,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00026,Patrick Wilson,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00027,Laurie Michael,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00028,Timothy Bailey,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00034,Brandon Dawson,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00036,Brenda Mclean,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00038,Jeffrey Clark,1.13,3,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00042,Yolanda Levine,1.13,92,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00043,John Williams,1.13,2,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00045,Emily Gutierrez,1.13,1,0.0
+CR00029,Natural Language Processing,Machine Learning,Beginner,TC00049,Valerie Wiley,1.13,10,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00003,Amber Torres,1.73,1,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00004,Kristi Scott,1.73,5,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00007,Angela Beard,1.73,9,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00009,Alexander Tucker,1.73,2,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00014,Susan Randolph,1.73,1,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00016,David Carlson,1.73,1,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00017,Brian Perez,1.73,2,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00021,Adam Holmes,1.73,7,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00022,John Holmes,1.73,1,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00023,Robert Mack,1.73,1,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00025,Justin Pham,1.7299999999999998,3,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00026,Patrick Wilson,1.73,1,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00031,Brenda Mercer,1.73,1,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00034,Brandon Dawson,1.7299999999999998,3,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00036,Brenda Mclean,1.73,1,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00038,Jeffrey Clark,1.73,2,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00042,Yolanda Levine,1.7299999999999998,107,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00043,John Williams,1.7299999999999998,3,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00045,Emily Gutierrez,1.73,2,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00049,Valerie Wiley,1.73,15,0.0
+CR00030,Reinforcement Learning,Machine Learning,Intermediate,TC00051,John Obrien,1.73,1,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,TC00001,Leonard Montgomery,1.9099999999999997,5,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,TC00006,Rebecca Webb,1.91,4,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,TC00012,Christopher Nelson,1.91,3,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,TC00031,Brenda Mercer,1.91,33,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,TC00032,James Holder,1.91,6,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,TC00040,Kimberly Miller,1.9100000000000001,90,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,TC00046,Brent Walters,1.91,4,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,TC00055,Alison Wilson,1.91,8,0.0
+CR00031,Network Security,Cybersecurity,Intermediate,TC00059,Noah Stewart,1.91,7,0.0
+CR00032,Ethical Hacking,Cybersecurity,Advanced,TC00001,Leonard Montgomery,2.38,8,0.0
+CR00032,Ethical Hacking,Cybersecurity,Advanced,TC00006,Rebecca Webb,2.38,7,0.0
+CR00032,Ethical Hacking,Cybersecurity,Advanced,TC00012,Christopher Nelson,2.38,4,0.0
+CR00032,Ethical Hacking,Cybersecurity,Advanced,TC00031,Brenda Mercer,2.38,29,0.0
+CR00032,Ethical Hacking,Cybersecurity,Advanced,TC00032,James Holder,2.38,1,0.0
+CR00032,Ethical Hacking,Cybersecurity,Advanced,TC00040,Kimberly Miller,2.38,93,0.0
+CR00032,Ethical Hacking,Cybersecurity,Advanced,TC00046,Brent Walters,2.38,8,0.0
+CR00032,Ethical Hacking,Cybersecurity,Advanced,TC00055,Alison Wilson,2.38,8,0.0
+CR00032,Ethical Hacking,Cybersecurity,Advanced,TC00059,Noah Stewart,2.38,5,0.0
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,TC00001,Leonard Montgomery,3.93,4,0.0
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,TC00006,Rebecca Webb,3.93,8,0.0
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,TC00012,Christopher Nelson,3.93,6,0.0
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,TC00031,Brenda Mercer,3.9299999999999997,33,0.0
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,TC00032,James Holder,3.93,4,0.0
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,TC00040,Kimberly Miller,3.93,97,0.0
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,TC00046,Brent Walters,3.93,4,0.0
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,TC00055,Alison Wilson,3.9300000000000006,5,0.0
+CR00033,Cybersecurity Fundamentals,Cybersecurity,Intermediate,TC00059,Noah Stewart,3.93,6,0.0
+CR00034,Data Encryption,Cybersecurity,Intermediate,TC00001,Leonard Montgomery,1.35,4,1577.04
+CR00034,Data Encryption,Cybersecurity,Intermediate,TC00006,Rebecca Webb,1.35,5,1971.3
+CR00034,Data Encryption,Cybersecurity,Intermediate,TC00012,Christopher Nelson,1.35,1,394.26
+CR00034,Data Encryption,Cybersecurity,Intermediate,TC00031,Brenda Mercer,1.35,21,8279.46
+CR00034,Data Encryption,Cybersecurity,Intermediate,TC00032,James Holder,1.35,5,1971.3
+CR00034,Data Encryption,Cybersecurity,Intermediate,TC00040,Kimberly Miller,1.35,92,36271.92
+CR00034,Data Encryption,Cybersecurity,Intermediate,TC00046,Brent Walters,1.35,5,1971.3
+CR00034,Data Encryption,Cybersecurity,Intermediate,TC00055,Alison Wilson,1.35,8,3154.08
+CR00034,Data Encryption,Cybersecurity,Intermediate,TC00059,Noah Stewart,1.35,9,3548.34
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,TC00001,Leonard Montgomery,4.94,3,0.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,TC00006,Rebecca Webb,4.94,7,0.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,TC00012,Christopher Nelson,4.94,7,0.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,TC00031,Brenda Mercer,4.94,30,0.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,TC00032,James Holder,4.94,7,0.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,TC00040,Kimberly Miller,4.94,103,0.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,TC00046,Brent Walters,4.94,6,0.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,TC00055,Alison Wilson,4.94,4,0.0
+CR00035,Cyber Threat Intelligence,Cybersecurity,Beginner,TC00059,Noah Stewart,4.94,12,0.0
+CR00036,Agile Project Management,Project Management,Beginner,TC00009,Alexander Tucker,4.68,4,0.0
+CR00036,Agile Project Management,Project Management,Beginner,TC00014,Susan Randolph,4.68,11,0.0
+CR00036,Agile Project Management,Project Management,Beginner,TC00018,Kari Pierce,4.68,20,0.0
+CR00036,Agile Project Management,Project Management,Beginner,TC00040,Kimberly Miller,4.68,56,0.0
+CR00036,Agile Project Management,Project Management,Beginner,TC00042,Yolanda Levine,4.68,57,0.0
+CR00036,Agile Project Management,Project Management,Beginner,TC00043,John Williams,4.68,10,0.0
+CR00036,Agile Project Management,Project Management,Beginner,TC00060,Benjamin Gray,4.68,19,0.0
+CR00037,Scrum Essentials,Project Management,Intermediate,TC00009,Alexander Tucker,3.45,9,0.0
+CR00037,Scrum Essentials,Project Management,Intermediate,TC00014,Susan Randolph,3.45,7,0.0
+CR00037,Scrum Essentials,Project Management,Intermediate,TC00018,Kari Pierce,3.45,18,0.0
+CR00037,Scrum Essentials,Project Management,Intermediate,TC00040,Kimberly Miller,3.45,50,0.0
+CR00037,Scrum Essentials,Project Management,Intermediate,TC00042,Yolanda Levine,3.4500000000000006,41,0.0
+CR00037,Scrum Essentials,Project Management,Intermediate,TC00043,John Williams,3.4500000000000006,12,0.0
+CR00037,Scrum Essentials,Project Management,Intermediate,TC00060,Benjamin Gray,3.45,16,0.0
+CR00038,Risk Management,Project Management,Intermediate,TC00009,Alexander Tucker,4.84,12,4111.32
+CR00038,Risk Management,Project Management,Intermediate,TC00014,Susan Randolph,4.839999999999999,7,2398.27
+CR00038,Risk Management,Project Management,Intermediate,TC00018,Kari Pierce,4.84,19,6509.59
+CR00038,Risk Management,Project Management,Intermediate,TC00040,Kimberly Miller,4.84,54,18500.940000000002
+CR00038,Risk Management,Project Management,Intermediate,TC00042,Yolanda Levine,4.84,50,17130.5
+CR00038,Risk Management,Project Management,Intermediate,TC00043,John Williams,4.839999999999999,7,2398.27
+CR00038,Risk Management,Project Management,Intermediate,TC00060,Benjamin Gray,4.84,9,3083.4900000000002
+CR00039,Project Planning,Project Management,Advanced,TC00009,Alexander Tucker,1.23,10,3467.1
+CR00039,Project Planning,Project Management,Advanced,TC00014,Susan Randolph,1.23,7,2426.97
+CR00039,Project Planning,Project Management,Advanced,TC00018,Kari Pierce,1.23,19,6587.49
+CR00039,Project Planning,Project Management,Advanced,TC00040,Kimberly Miller,1.23,42,14561.82
+CR00039,Project Planning,Project Management,Advanced,TC00042,Yolanda Levine,1.23,63,21842.73
+CR00039,Project Planning,Project Management,Advanced,TC00043,John Williams,1.23,9,3120.39
+CR00039,Project Planning,Project Management,Advanced,TC00060,Benjamin Gray,1.23,17,5894.07
+CR00040,Leadership in Projects,Project Management,Beginner,TC00009,Alexander Tucker,1.51,4,1311.96
+CR00040,Leadership in Projects,Project Management,Beginner,TC00014,Susan Randolph,1.51,15,4919.85
+CR00040,Leadership in Projects,Project Management,Beginner,TC00018,Kari Pierce,1.51,13,4263.87
+CR00040,Leadership in Projects,Project Management,Beginner,TC00040,Kimberly Miller,1.5100000000000002,57,18695.43
+CR00040,Leadership in Projects,Project Management,Beginner,TC00042,Yolanda Levine,1.51,55,18039.45
+CR00040,Leadership in Projects,Project Management,Beginner,TC00043,John Williams,1.51,10,3279.9
+CR00040,Leadership in Projects,Project Management,Beginner,TC00060,Benjamin Gray,1.51,20,6559.8
+CR00041,Financial Accounting,Finance,Beginner,TC00005,David Williams,2.47,5,269.3
+CR00041,Financial Accounting,Finance,Beginner,TC00023,Robert Mack,2.47,15,807.9
+CR00041,Financial Accounting,Finance,Beginner,TC00037,Debra Escobar,2.47,16,861.76
+CR00041,Financial Accounting,Finance,Beginner,TC00039,Elizabeth Bishop,2.47,5,269.3
+CR00041,Financial Accounting,Finance,Beginner,TC00040,Kimberly Miller,2.47,68,3662.48
+CR00041,Financial Accounting,Finance,Beginner,TC00042,Yolanda Levine,2.47,48,2585.2799999999997
+CR00041,Financial Accounting,Finance,Beginner,TC00044,Barbara Maynard,2.47,8,430.88
+CR00041,Financial Accounting,Finance,Beginner,TC00048,Theresa Gonzalez,2.47,1,53.86
+CR00042,Investment Strategies,Finance,Intermediate,TC00005,David Williams,4.1,5,0.0
+CR00042,Investment Strategies,Finance,Intermediate,TC00023,Robert Mack,4.1,19,0.0
+CR00042,Investment Strategies,Finance,Intermediate,TC00037,Debra Escobar,4.1,30,0.0
+CR00042,Investment Strategies,Finance,Intermediate,TC00039,Elizabeth Bishop,4.1,9,0.0
+CR00042,Investment Strategies,Finance,Intermediate,TC00040,Kimberly Miller,4.1,48,0.0
+CR00042,Investment Strategies,Finance,Intermediate,TC00042,Yolanda Levine,4.1,49,0.0
+CR00042,Investment Strategies,Finance,Intermediate,TC00044,Barbara Maynard,4.1,19,0.0
+CR00042,Investment Strategies,Finance,Intermediate,TC00048,Theresa Gonzalez,4.1,4,0.0
+CR00043,Corporate Finance,Finance,Beginner,TC00005,David Williams,4.14,4,0.0
+CR00043,Corporate Finance,Finance,Beginner,TC00023,Robert Mack,4.14,18,0.0
+CR00043,Corporate Finance,Finance,Beginner,TC00037,Debra Escobar,4.14,18,0.0
+CR00043,Corporate Finance,Finance,Beginner,TC00039,Elizabeth Bishop,4.14,8,0.0
+CR00043,Corporate Finance,Finance,Beginner,TC00040,Kimberly Miller,4.14,65,0.0
+CR00043,Corporate Finance,Finance,Beginner,TC00042,Yolanda Levine,4.14,49,0.0
+CR00043,Corporate Finance,Finance,Beginner,TC00044,Barbara Maynard,4.14,10,0.0
+CR00043,Corporate Finance,Finance,Beginner,TC00048,Theresa Gonzalez,4.14,10,0.0
+CR00044,Personal Finance,Finance,Intermediate,TC00005,David Williams,2.75,3,357.12
+CR00044,Personal Finance,Finance,Intermediate,TC00023,Robert Mack,2.75,13,1547.52
+CR00044,Personal Finance,Finance,Intermediate,TC00037,Debra Escobar,2.75,26,3095.04
+CR00044,Personal Finance,Finance,Intermediate,TC00040,Kimberly Miller,2.75,55,6547.200000000001
+CR00044,Personal Finance,Finance,Intermediate,TC00042,Yolanda Levine,2.75,52,6190.08
+CR00044,Personal Finance,Finance,Intermediate,TC00044,Barbara Maynard,2.75,10,1190.4
+CR00044,Personal Finance,Finance,Intermediate,TC00048,Theresa Gonzalez,2.75,2,238.08
+CR00045,Financial Modeling,Finance,Advanced,TC00005,David Williams,1.59,13,0.0
+CR00045,Financial Modeling,Finance,Advanced,TC00023,Robert Mack,1.59,9,0.0
+CR00045,Financial Modeling,Finance,Advanced,TC00037,Debra Escobar,1.59,21,0.0
+CR00045,Financial Modeling,Finance,Advanced,TC00039,Elizabeth Bishop,1.59,3,0.0
+CR00045,Financial Modeling,Finance,Advanced,TC00040,Kimberly Miller,1.59,60,0.0
+CR00045,Financial Modeling,Finance,Advanced,TC00042,Yolanda Levine,1.59,51,0.0
+CR00045,Financial Modeling,Finance,Advanced,TC00044,Barbara Maynard,1.59,14,0.0
+CR00045,Financial Modeling,Finance,Advanced,TC00048,Theresa Gonzalez,1.59,1,0.0
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,TC00011,Carol Edwards,1.2,6,1488.6
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,TC00027,Laurie Michael,1.2,21,5210.099999999999
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,TC00029,David Webb,1.2,4,992.4
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,TC00030,David Aguirre,1.2,5,1240.5
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,TC00040,Kimberly Miller,1.2,49,12156.9
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,TC00041,Kevin Simpson,1.2,5,1240.5
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,TC00042,Yolanda Levine,1.2,43,10668.3
+CR00046,AI for Beginners,Artificial Intelligence,Beginner,TC00054,Shelby Patrick,1.2,7,1736.7
+CR00047,Natural Language Processing,Artificial Intelligence,Intermediate,TC00011,Carol Edwards,2.68,12,1075.08
+CR00047,Natural Language Processing,Artificial Intelligence,Intermediate,TC00027,Laurie Michael,2.68,23,2060.57
+CR00047,Natural Language Processing,Artificial Intelligence,Intermediate,TC00029,David Webb,2.68,10,895.9000000000001
+CR00047,Natural Language Processing,Artificial Intelligence,Intermediate,TC00030,David Aguirre,2.68,11,985.49
+CR00047,Natural Language Processing,Artificial Intelligence,Intermediate,TC00040,Kimberly Miller,2.68,47,4210.7300000000005
+CR00047,Natural Language Processing,Artificial Intelligence,Intermediate,TC00041,Kevin Simpson,2.68,7,627.13
+CR00047,Natural Language Processing,Artificial Intelligence,Intermediate,TC00042,Yolanda Levine,2.68,51,4569.09
+CR00047,Natural Language Processing,Artificial Intelligence,Intermediate,TC00054,Shelby Patrick,2.68,5,447.95000000000005
+CR00048,AI Ethics,Artificial Intelligence,Beginner,TC00011,Carol Edwards,3.64,6,0.0
+CR00048,AI Ethics,Artificial Intelligence,Beginner,TC00027,Laurie Michael,3.64,27,0.0
+CR00048,AI Ethics,Artificial Intelligence,Beginner,TC00029,David Webb,3.64,11,0.0
+CR00048,AI Ethics,Artificial Intelligence,Beginner,TC00030,David Aguirre,3.64,3,0.0
+CR00048,AI Ethics,Artificial Intelligence,Beginner,TC00040,Kimberly Miller,3.64,51,0.0
+CR00048,AI Ethics,Artificial Intelligence,Beginner,TC00041,Kevin Simpson,3.64,11,0.0
+CR00048,AI Ethics,Artificial Intelligence,Beginner,TC00042,Yolanda Levine,3.64,67,0.0
+CR00048,AI Ethics,Artificial Intelligence,Beginner,TC00054,Shelby Patrick,3.6399999999999997,10,0.0
+CR00049,Deep Learning,Artificial Intelligence,Intermediate,TC00011,Carol Edwards,3.11,8,3324.08
+CR00049,Deep Learning,Artificial Intelligence,Intermediate,TC00027,Laurie Michael,3.1100000000000003,21,8725.71
+CR00049,Deep Learning,Artificial Intelligence,Intermediate,TC00029,David Webb,3.11,10,4155.1
+CR00049,Deep Learning,Artificial Intelligence,Intermediate,TC00030,David Aguirre,3.11,8,3324.08
+CR00049,Deep Learning,Artificial Intelligence,Intermediate,TC00040,Kimberly Miller,3.11,39,16204.89
+CR00049,Deep Learning,Artificial Intelligence,Intermediate,TC00041,Kevin Simpson,3.11,10,4155.1
+CR00049,Deep Learning,Artificial Intelligence,Intermediate,TC00042,Yolanda Levine,3.11,60,24930.6
+CR00049,Deep Learning,Artificial Intelligence,Intermediate,TC00054,Shelby Patrick,3.11,7,2908.5699999999997
+CR00050,Computer Vision,Artificial Intelligence,Beginner,TC00011,Carol Edwards,4.55,7,3436.2999999999997
+CR00050,Computer Vision,Artificial Intelligence,Beginner,TC00027,Laurie Michael,4.55,27,13254.3
+CR00050,Computer Vision,Artificial Intelligence,Beginner,TC00029,David Webb,4.55,10,4909.0
+CR00050,Computer Vision,Artificial Intelligence,Beginner,TC00030,David Aguirre,4.55,10,4909.0
+CR00050,Computer Vision,Artificial Intelligence,Beginner,TC00040,Kimberly Miller,4.55,54,26508.6
+CR00050,Computer Vision,Artificial Intelligence,Beginner,TC00041,Kevin Simpson,4.55,7,3436.2999999999997
+CR00050,Computer Vision,Artificial Intelligence,Beginner,TC00042,Yolanda Levine,4.55,48,23563.199999999997
+CR00050,Computer Vision,Artificial Intelligence,Beginner,TC00054,Shelby Patrick,4.55,11,5399.9
+CR00051,HTML & CSS,Web Development,Advanced,TC00001,Leonard Montgomery,1.3,3,113.67
+CR00051,HTML & CSS,Web Development,Advanced,TC00005,David Williams,1.3,2,75.78
+CR00051,HTML & CSS,Web Development,Advanced,TC00006,Rebecca Webb,1.3,2,75.78
+CR00051,HTML & CSS,Web Development,Advanced,TC00013,Brian Carrillo,1.3,1,37.89
+CR00051,HTML & CSS,Web Development,Advanced,TC00015,John Armstrong,1.3,1,37.89
+CR00051,HTML & CSS,Web Development,Advanced,TC00025,Justin Pham,1.3,2,75.78
+CR00051,HTML & CSS,Web Development,Advanced,TC00026,Patrick Wilson,1.3,3,113.67
+CR00051,HTML & CSS,Web Development,Advanced,TC00029,David Webb,1.3,1,37.89
+CR00051,HTML & CSS,Web Development,Advanced,TC00030,David Aguirre,1.3,1,37.89
+CR00051,HTML & CSS,Web Development,Advanced,TC00032,James Holder,1.3,1,37.89
+CR00051,HTML & CSS,Web Development,Advanced,TC00034,Brandon Dawson,1.3,8,303.12
+CR00051,HTML & CSS,Web Development,Advanced,TC00035,Sharon Jackson,1.3,1,37.89
+CR00051,HTML & CSS,Web Development,Advanced,TC00040,Kimberly Miller,1.3,48,1818.72
+CR00051,HTML & CSS,Web Development,Advanced,TC00042,Yolanda Levine,1.3,54,2046.06
+CR00051,HTML & CSS,Web Development,Advanced,TC00045,Emily Gutierrez,1.3,10,378.9
+CR00051,HTML & CSS,Web Development,Advanced,TC00048,Theresa Gonzalez,1.3,3,113.67
+CR00051,HTML & CSS,Web Development,Advanced,TC00049,Valerie Wiley,1.3,1,37.89
+CR00051,HTML & CSS,Web Development,Advanced,TC00052,Susan Johnson,1.3,1,37.89
+CR00051,HTML & CSS,Web Development,Advanced,TC00057,Brittany Scott,1.3,1,37.89
+CR00051,HTML & CSS,Web Development,Advanced,TC00058,Andrew Anderson,1.3,27,1023.03
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00005,David Williams,2.2,1,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00015,John Armstrong,2.2,1,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00019,Tommy Haynes,2.2,2,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00025,Justin Pham,2.2,11,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00026,Patrick Wilson,2.2,6,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00032,James Holder,2.2,2,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00034,Brandon Dawson,2.2,3,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00040,Kimberly Miller,2.2,40,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00042,Yolanda Levine,2.2,50,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00045,Emily Gutierrez,2.2,6,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00048,Theresa Gonzalez,2.2,1,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00049,Valerie Wiley,2.2,1,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00057,Brittany Scott,2.2,1,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00058,Andrew Anderson,2.2,28,0.0
+CR00052,JavaScript Mastery,Web Development,Beginner,TC00060,Benjamin Gray,2.2,1,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00006,Rebecca Webb,2.67,1,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00019,Tommy Haynes,2.67,1,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00020,Tara Reynolds,2.67,1,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00025,Justin Pham,2.67,3,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00026,Patrick Wilson,2.67,10,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00029,David Webb,2.67,3,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00030,David Aguirre,2.67,2,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00034,Brandon Dawson,2.67,8,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00035,Sharon Jackson,2.67,1,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00039,Elizabeth Bishop,2.67,1,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00040,Kimberly Miller,2.67,52,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00042,Yolanda Levine,2.67,42,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00045,Emily Gutierrez,2.67,11,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00050,Alexander Williams,2.67,1,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00052,Susan Johnson,2.67,1,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00058,Andrew Anderson,2.67,24,0.0
+CR00053,React for Beginners,Web Development,Advanced,TC00060,Benjamin Gray,2.67,1,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00013,Brian Carrillo,3.32,2,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00015,John Armstrong,3.32,2,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00019,Tommy Haynes,3.32,2,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00020,Tara Reynolds,3.32,1,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00025,Justin Pham,3.32,6,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00026,Patrick Wilson,3.32,8,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00029,David Webb,3.32,2,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00032,James Holder,3.32,1,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00034,Brandon Dawson,3.32,8,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00035,Sharon Jackson,3.32,1,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00039,Elizabeth Bishop,3.32,2,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00040,Kimberly Miller,3.32,48,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00042,Yolanda Levine,3.32,57,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00045,Emily Gutierrez,3.32,2,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00048,Theresa Gonzalez,3.32,1,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00049,Valerie Wiley,3.32,3,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00050,Alexander Williams,3.32,1,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00052,Susan Johnson,3.32,2,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00057,Brittany Scott,3.32,1,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00058,Andrew Anderson,3.32,26,0.0
+CR00054,Backend Development with Node.js,Web Development,Beginner,TC00060,Benjamin Gray,3.32,2,0.0
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00001,Leonard Montgomery,4.74,1,57.32
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00005,David Williams,4.74,1,57.32
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00015,John Armstrong,4.74,1,57.32
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00020,Tara Reynolds,4.74,3,171.96
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00025,Justin Pham,4.74,5,286.6
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00026,Patrick Wilson,4.74,8,458.56
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00029,David Webb,4.74,1,57.32
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00032,James Holder,4.74,2,114.64
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00034,Brandon Dawson,4.74,6,343.92
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00040,Kimberly Miller,4.74,61,3496.52
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00042,Yolanda Levine,4.74,49,2808.68
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00045,Emily Gutierrez,4.74,6,343.92
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00048,Theresa Gonzalez,4.74,1,57.32
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00049,Valerie Wiley,4.74,4,229.28
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00050,Alexander Williams,4.74,2,114.64
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00052,Susan Johnson,4.74,2,114.64
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00057,Brittany Scott,4.74,2,114.64
+CR00055,Full-Stack Web Development,Web Development,Advanced,TC00058,Andrew Anderson,4.74,23,1318.36
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00002,Jill Day,3.15,15,3185.85
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00013,Brian Carrillo,3.15,2,424.78
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00017,Brian Perez,3.15,4,849.56
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00019,Tommy Haynes,3.15,3,637.17
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00020,Tara Reynolds,3.15,2,424.78
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00022,John Holmes,3.15,2,424.78
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00024,Michael Kim,3.1499999999999995,13,2761.0699999999997
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00035,Sharon Jackson,3.15,3,637.17
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00036,Brenda Mclean,3.15,5,1061.9499999999998
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00038,Jeffrey Clark,3.15,9,1911.5099999999998
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00040,Kimberly Miller,3.15,43,9132.769999999999
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00042,Yolanda Levine,3.15,46,9769.939999999999
+CR00056,Google Ads Mastery,Digital Marketing,Advanced,TC00050,Alexander Williams,3.15,1,212.39
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00002,Jill Day,3.8899999999999997,9,1596.06
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00013,Brian Carrillo,3.89,2,354.68
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00017,Brian Perez,3.89,2,354.68
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00019,Tommy Haynes,3.89,1,177.34
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00020,Tara Reynolds,3.89,1,177.34
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00022,John Holmes,3.89,6,1064.04
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00024,Michael Kim,3.89,12,2128.08
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00035,Sharon Jackson,3.89,7,1241.38
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00036,Brenda Mclean,3.89,6,1064.04
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00038,Jeffrey Clark,3.89,8,1418.72
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00040,Kimberly Miller,3.89,45,7980.3
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00042,Yolanda Levine,3.89,37,6561.58
+CR00057,SEO for E-commerce,Digital Marketing,Advanced,TC00050,Alexander Williams,3.89,4,709.36
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00002,Jill Day,4.44,15,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00013,Brian Carrillo,4.44,3,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00017,Brian Perez,4.44,11,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00019,Tommy Haynes,4.44,5,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00020,Tara Reynolds,4.44,4,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00022,John Holmes,4.44,6,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00024,Michael Kim,4.44,10,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00035,Sharon Jackson,4.44,5,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00036,Brenda Mclean,4.44,3,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00038,Jeffrey Clark,4.44,8,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00040,Kimberly Miller,4.44,61,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00042,Yolanda Levine,4.44,61,0.0
+CR00058,Social Media Strategy,Digital Marketing,Beginner,TC00050,Alexander Williams,4.44,2,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00002,Jill Day,4.66,16,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00013,Brian Carrillo,4.66,3,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00017,Brian Perez,4.66,5,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00019,Tommy Haynes,4.66,3,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00020,Tara Reynolds,4.66,3,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00022,John Holmes,4.66,9,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00024,Michael Kim,4.66,9,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00035,Sharon Jackson,4.66,6,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00036,Brenda Mclean,4.66,9,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00038,Jeffrey Clark,4.66,10,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00040,Kimberly Miller,4.66,44,0.0
+CR00059,Affiliate Marketing,Digital Marketing,Intermediate,TC00042,Yolanda Levine,4.66,44,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00002,Jill Day,2.14,7,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00013,Brian Carrillo,2.14,1,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00017,Brian Perez,2.14,7,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00019,Tommy Haynes,2.14,7,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00020,Tara Reynolds,2.14,2,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00022,John Holmes,2.14,5,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00024,Michael Kim,2.14,9,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00035,Sharon Jackson,2.14,3,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00036,Brenda Mclean,2.14,10,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00038,Jeffrey Clark,2.14,7,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00040,Kimberly Miller,2.14,49,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00042,Yolanda Levine,2.14,54,0.0
+CR00060,Content Creation,Digital Marketing,Beginner,TC00050,Alexander Williams,2.14,4,0.0
